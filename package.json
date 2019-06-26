@@ -4,11 +4,16 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-d3": "^0.4.0",
+    "react-dnd": "^8.0.3",
+    "react-dnd-html5-backend": "^8.0.3",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-icons": "^3.7.0",
+    "react-scripts": "3.0.1",
+    "prop-types": "latest"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3006 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
