@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pentago/static/css/main.f8757eeb.chunk.css",
+    "main.js": "/pentago/static/js/main.e561e70d.chunk.js",
+    "main.js.map": "/pentago/static/js/main.e561e70d.chunk.js.map",
+    "runtime~main.js": "/pentago/static/js/runtime~main.3aaa5e29.js",
+    "runtime~main.js.map": "/pentago/static/js/runtime~main.3aaa5e29.js.map",
+    "static/js/2.a7c477f3.chunk.js": "/pentago/static/js/2.a7c477f3.chunk.js",
+    "static/js/2.a7c477f3.chunk.js.map": "/pentago/static/js/2.a7c477f3.chunk.js.map",
+    "index.html": "/pentago/index.html",
+    "precache-manifest.e99fd339f4daeb8f5f437669dad24473.js": "/pentago/precache-manifest.e99fd339f4daeb8f5f437669dad24473.js",
+    "service-worker.js": "/pentago/service-worker.js",
+    "static/css/main.f8757eeb.chunk.css.map": "/pentago/static/css/main.f8757eeb.chunk.css.map"
+  }
+}
